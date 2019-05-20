@@ -30,4 +30,4 @@ I looked into potentially using laravel-zero instead, however the structure for 
 I understand that we could technically perform a single-run of a laravel application by instead of serving on a port for a web interface, instead doing:
 ``` php index.php ``` 
 
-However, due to the nature  of this test, it would've been a very heavily wrapped code-based, where I would've created our geometrical element classes as Models and incororated our in the element's Controller.
+However, due to the nature  of this test, it would've been a very unecessarily heavy code base, where I would've created our geometrical element classes as Models and incorporated our in the element's Controller.
